@@ -1,0 +1,44 @@
+body{
+  background-color: black;
+}
+
+.container{
+  width: 600px;
+  margin: auto;
+  background-color: black;
+  padding: 20px;
+  border: blue 3px solid;
+  border-radius: 10px;
+  color: white;
+}
+
+#inventory_initialiser {
+  left: 38%;
+  top: 90%;
+  position: absolute;
+  font-size: 30px;
+  color: white;
+}
+
+#key {
+  width: 40%;
+  height: 40%;
+  position: absolute;
+  left: 0%;
+  top: 20%;
+}
+
+#chest {
+  width: 40%;
+  height: 40%;
+  position: absolute;
+  left: 70%;
+  top: 20%;
+}
+
+#feedback{
+  background-color: yellow;
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+}

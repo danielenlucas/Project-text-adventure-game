@@ -1,8 +1,19 @@
-# Project-text-adventure-game
-text adventure game for school
+## MaQuest
+gamedeveloper :[jouw naam]
 
-*code can change*
+### Korte omschrijving van de game
+...
 
-text-adventure-game patch 1.0;
+---
+#### Producten Werkproces
+| Product  | Link |
+| ------ |  ------ |
+| Link naar live demo| [LiveDemo]
+| frontend ontwerpen voor computer en smartpnone (pdf) | [Design]
+| Plattegrond van jouw labyrinth            | [Map]
+|<img width=500/>|<img width=300/>|
 
-game is now online, http://25475.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/PROJ/adventure_game/PROJ-1.3-19-20-GD-textadventure-master/index.html
+
+   [LiveDemo]: <http://sjo.hosts.ma-cloud.nl/2018_2019/PROJ-1.3-19-20-GD-textadventure/>
+   [Design]: <docs/design.png>
+   [Map]:<docs/map.png>
